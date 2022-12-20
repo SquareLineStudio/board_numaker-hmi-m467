@@ -2,7 +2,7 @@
     "version":"v1.0.0",
     "group":"Nuvoton",
     "title": "NuMaker-HMI-M467",
-    "keywords": "Nuvoton, Rt-Thread, Eclipse, PC, Windows",
+    "keywords": "Nuvoton, RT-Thread, RT-Studio, ENV, Windows",
     "width": 480,
     "height": 272,
     "width_min": 480,
@@ -19,6 +19,7 @@
     "pattern_match_files": "./applications/lvgl/lv_conf.h",
     "language":"C",
     "ui_export_path":"./packages/lvgl/env_support/rt-thread/squareline/ui",
-    "url":"https://squareline.io",
-    "short_description": "Nuvoton's NuMaker-HMI-M467 board",
-    "long_description": "It's an Eclipse based project using RT-Thread Studio."}
+    "url":"https://www.nuvoton.com/products/gui-solution/gui-platform/numaker-hmi-m467/",
+    "short_description": "The NuMaker-HMI-M467 is designed for project evaluation, prototype development and validation with Human Machine Interface function.",
+    "long_description": "The NuMaker-HMI-M467 integrates touchscreen display, voice input/output, rich serial port service and I/O interface, providing multiple external storage methods."
+}
