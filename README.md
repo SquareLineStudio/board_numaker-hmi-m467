@@ -1,10 +1,10 @@
-# Board name
+# NuMaker-HMI-M467
 
-description
+The NuMaker-HMI-M467 integrates touchscreen display, voice input/output, rich serial port service and I/O interface, providing multiple external storage methods.
 
-## Versioning
+## v1.0.1
 
-For each version of the board please refer to the respective branches here.
+This OBP includes multiple project files, such as NuEclipse, MDK Keil, CSolution, and IAR, to facilitate quick evaluation.
 
 ## Contributing
 
